@@ -1,0 +1,17 @@
+{
+  "name": "sizukutamago-auto-todo",
+  "owner": {
+    "name": "sizukutamago"
+  },
+  "metadata": {
+    "description": "Chat-driven TODO orchestrator for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "auto-todo",
+      "source": ".",
+      "description": "Automatically scan, plan, and execute TODO items. Chat to add tasks, scheduled jobs handle planning and execution with safety guardrails.",
+      "version": "0.1.0"
+    }
+  ]
+}
