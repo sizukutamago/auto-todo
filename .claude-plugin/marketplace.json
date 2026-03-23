@@ -9,7 +9,10 @@
   "plugins": [
     {
       "name": "auto-todo",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "sizukutamago/auto-todo"
+      },
       "description": "Automatically scan, plan, and execute TODO items. Chat to add tasks, scheduled jobs handle planning and execution with safety guardrails.",
       "version": "0.1.0"
     }
