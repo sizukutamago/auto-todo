@@ -1,0 +1,9 @@
+version: 1
+projects:
+  kondate: ~/workspace/github.com/sizukutamago/kondate
+  flow-pilot: ~/workspace/github.com/sizukutamago/flow-pilot
+  auto-todo: ~/workspace/github.com/sizukutamago/auto-todo
+auto_execute_labels: [docs, lint, format, safe]
+notification:
+  local: true
+  slack_webhook: ""
