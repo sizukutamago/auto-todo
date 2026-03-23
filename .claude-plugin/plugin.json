@@ -1,8 +1,5 @@
 {
   "name": "auto-todo",
   "version": "0.1.0",
-  "description": "Automatically scan, plan, and execute TODO items. Chat to add tasks, scheduled jobs handle planning and execution with safety guardrails.",
-  "skills": "./skills/",
-  "agents": "./agents/",
-  "hooks": "./hooks/hooks.json"
+  "description": "Automatically scan, plan, and execute TODO items. Chat to add tasks, scheduled jobs handle planning and execution with safety guardrails."
 }
